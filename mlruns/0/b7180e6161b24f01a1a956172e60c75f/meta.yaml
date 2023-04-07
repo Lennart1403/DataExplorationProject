@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/b7180e6161b24f01a1a956172e60c75f/artifacts
+end_time: 1680821145944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b7180e6161b24f01a1a956172e60c75f
+run_name: fortunate-asp-373
+run_uuid: b7180e6161b24f01a1a956172e60c75f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680821107653
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/726cf94447274697920cf405b439428e/artifacts
+end_time: 1680820483869
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 726cf94447274697920cf405b439428e
+run_name: languid-sponge-714
+run_uuid: 726cf94447274697920cf405b439428e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820476789
+status: 3
+tags: []
+user_id: pahl

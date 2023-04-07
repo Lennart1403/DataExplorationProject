@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/737830b8afdc4e26b6dafddf6fe008d2/artifacts
+end_time: 1680820838777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 737830b8afdc4e26b6dafddf6fe008d2
+run_name: likeable-snake-323
+run_uuid: 737830b8afdc4e26b6dafddf6fe008d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820809398
+status: 3
+tags: []
+user_id: pahl

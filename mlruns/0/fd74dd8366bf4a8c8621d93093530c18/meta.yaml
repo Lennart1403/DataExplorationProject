@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/fd74dd8366bf4a8c8621d93093530c18/artifacts
+end_time: 1680821107651
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd74dd8366bf4a8c8621d93093530c18
+run_name: delicate-hare-472
+run_uuid: fd74dd8366bf4a8c8621d93093530c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680821065413
+status: 3
+tags: []
+user_id: pahl

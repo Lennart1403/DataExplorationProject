@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/14863f7484254092a96bb2c228943610/artifacts
+end_time: 1680820375672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14863f7484254092a96bb2c228943610
+run_name: dapper-owl-937
+run_uuid: 14863f7484254092a96bb2c228943610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820369677
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/ae05ff3e2f914fbca903789282259df3/artifacts
+end_time: 1680820693526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ae05ff3e2f914fbca903789282259df3
+run_name: caring-elk-653
+run_uuid: ae05ff3e2f914fbca903789282259df3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820671570
+status: 3
+tags: []
+user_id: pahl

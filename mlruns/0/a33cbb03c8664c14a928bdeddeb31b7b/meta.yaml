@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/a33cbb03c8664c14a928bdeddeb31b7b/artifacts
+end_time: 1680820418776
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a33cbb03c8664c14a928bdeddeb31b7b
+run_name: whimsical-roo-646
+run_uuid: a33cbb03c8664c14a928bdeddeb31b7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820402994
+status: 3
+tags: []
+user_id: pahl

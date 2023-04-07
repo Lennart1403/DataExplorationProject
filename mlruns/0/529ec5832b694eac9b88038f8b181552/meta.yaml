@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/529ec5832b694eac9b88038f8b181552/artifacts
+end_time: 1680821034593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 529ec5832b694eac9b88038f8b181552
+run_name: bald-moth-504
+run_uuid: 529ec5832b694eac9b88038f8b181552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680821000167
+status: 3
+tags: []
+user_id: pahl

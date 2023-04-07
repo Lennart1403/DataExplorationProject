@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/9f1d35a3508b445eba3e3f8513b5e608/artifacts
+end_time: 1680820334100
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f1d35a3508b445eba3e3f8513b5e608
+run_name: big-snake-399
+run_uuid: 9f1d35a3508b445eba3e3f8513b5e608
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820322920
+status: 3
+tags: []
+user_id: pahl

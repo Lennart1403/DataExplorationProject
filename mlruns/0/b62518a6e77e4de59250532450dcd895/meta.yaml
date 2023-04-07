@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/b62518a6e77e4de59250532450dcd895/artifacts
+end_time: 1680820452076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b62518a6e77e4de59250532450dcd895
+run_name: rebellious-lark-71
+run_uuid: b62518a6e77e4de59250532450dcd895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820432829
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,12 @@
+creation_timestamp: 1680820761423
+current_stage: None
+description: null
+last_updated_timestamp: 1680820761423
+name: hotel-booking-model-300-1-sqrt
+run_id: 2da5243cac264c96a4e3e3f081eb60de
+run_link: null
+source: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/2da5243cac264c96a4e3e3f081eb60de/artifacts/rfc_reservations_classifier
+status: READY
+status_message: null
+user_id: null
+version: 1

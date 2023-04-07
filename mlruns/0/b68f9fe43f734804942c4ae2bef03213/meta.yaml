@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/b68f9fe43f734804942c4ae2bef03213/artifacts
+end_time: 1680820290812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b68f9fe43f734804942c4ae2bef03213
+run_name: bald-panda-327
+run_uuid: b68f9fe43f734804942c4ae2bef03213
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820283065
+status: 3
+tags: []
+user_id: pahl

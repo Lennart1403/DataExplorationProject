@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/47fd3b4a20634bc0ba42a3002f3451ad/artifacts
+end_time: 1680820791343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 47fd3b4a20634bc0ba42a3002f3451ad
+run_name: polite-lynx-82
+run_uuid: 47fd3b4a20634bc0ba42a3002f3451ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820770894
+status: 3
+tags: []
+user_id: pahl

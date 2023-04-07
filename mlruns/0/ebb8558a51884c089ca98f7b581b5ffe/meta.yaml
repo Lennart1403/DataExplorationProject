@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/ebb8558a51884c089ca98f7b581b5ffe/artifacts
+end_time: 1680820531524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebb8558a51884c089ca98f7b581b5ffe
+run_name: skillful-roo-178
+run_uuid: ebb8558a51884c089ca98f7b581b5ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680820511142
+status: 3
+tags: []
+user_id: pahl
