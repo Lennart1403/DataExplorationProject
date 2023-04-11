@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/c666ff8873de45848f6cd137259cfaec/artifacts
+end_time: 1681221648903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c666ff8873de45848f6cd137259cfaec
+run_name: youthful-skunk-99
+run_uuid: c666ff8873de45848f6cd137259cfaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221637048
+status: 3
+tags: []
+user_id: pahl

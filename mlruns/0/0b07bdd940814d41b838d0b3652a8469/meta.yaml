@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/0b07bdd940814d41b838d0b3652a8469/artifacts
+end_time: 1681222029722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b07bdd940814d41b838d0b3652a8469
+run_name: trusting-squid-998
+run_uuid: 0b07bdd940814d41b838d0b3652a8469
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222020415
+status: 3
+tags: []
+user_id: pahl

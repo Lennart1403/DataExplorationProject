@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/8ef994ff800d4916b820a74f8e09a36d/artifacts
+end_time: 1681222513655
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8ef994ff800d4916b820a74f8e09a36d
+run_name: bedecked-hare-843
+run_uuid: 8ef994ff800d4916b820a74f8e09a36d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222471149
+status: 3
+tags: []
+user_id: pahl

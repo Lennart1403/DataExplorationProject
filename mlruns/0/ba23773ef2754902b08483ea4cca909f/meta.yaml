@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/ba23773ef2754902b08483ea4cca909f/artifacts
+end_time: 1681221625310
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ba23773ef2754902b08483ea4cca909f
+run_name: honorable-hawk-818
+run_uuid: ba23773ef2754902b08483ea4cca909f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221613053
+status: 3
+tags: []
+user_id: pahl

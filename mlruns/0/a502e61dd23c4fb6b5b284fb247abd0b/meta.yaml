@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/a502e61dd23c4fb6b5b284fb247abd0b/artifacts
+end_time: 1681221983724
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a502e61dd23c4fb6b5b284fb247abd0b
+run_name: receptive-duck-733
+run_uuid: a502e61dd23c4fb6b5b284fb247abd0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221952589
+status: 3
+tags: []
+user_id: pahl

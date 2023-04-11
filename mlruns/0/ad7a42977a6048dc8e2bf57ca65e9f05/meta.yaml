@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/ad7a42977a6048dc8e2bf57ca65e9f05/artifacts
+end_time: 1681221709672
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ad7a42977a6048dc8e2bf57ca65e9f05
+run_name: nebulous-lynx-782
+run_uuid: ad7a42977a6048dc8e2bf57ca65e9f05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221690244
+status: 3
+tags: []
+user_id: pahl

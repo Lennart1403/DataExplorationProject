@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/85b79f7ed01b4215beb18e93bed9a835/artifacts
+end_time: 1681221631336
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 85b79f7ed01b4215beb18e93bed9a835
+run_name: agreeable-ray-356
+run_uuid: 85b79f7ed01b4215beb18e93bed9a835
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221625313
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/5fb85cb602734513933d85cc894a0d6a/artifacts
+end_time: 1681221864062
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5fb85cb602734513933d85cc894a0d6a
+run_name: delightful-bear-868
+run_uuid: 5fb85cb602734513933d85cc894a0d6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221855389
+status: 3
+tags: []
+user_id: pahl

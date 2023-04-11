@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/a84f65afaa4b4a90a28d064fd454cf8a/artifacts
+end_time: 1681221637045
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a84f65afaa4b4a90a28d064fd454cf8a
+run_name: classy-bee-425
+run_uuid: a84f65afaa4b4a90a28d064fd454cf8a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221631338
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/9acae932a8574968a51405cde1d2a810/artifacts
+end_time: 1681221613051
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9acae932a8574968a51405cde1d2a810
+run_name: amusing-mole-766
+run_uuid: 9acae932a8574968a51405cde1d2a810
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221599365
+status: 3
+tags: []
+user_id: pahl

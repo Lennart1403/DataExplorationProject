@@ -1,11 +1,11 @@
-creation_timestamp: 1680820302673
+creation_timestamp: 1681221555302
 current_stage: None
 description: null
-last_updated_timestamp: 1680820302673
+last_updated_timestamp: 1681221555302
 name: hotel-booking-model-100-1-sqrt
-run_id: cc361060f9e04b01ac413434dd23a7eb
+run_id: e1af8e8d3913489c9c635f371d4338f1
 run_link: null
-source: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/cc361060f9e04b01ac413434dd23a7eb/artifacts/rfc_reservations_classifier
+source: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/e1af8e8d3913489c9c635f371d4338f1/artifacts/rfc_reservations_classifier
 status: READY
 status_message: null
 user_id: null

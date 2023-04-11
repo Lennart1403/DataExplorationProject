@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/cc03ae79ccd043cfb8e9a652e0f79be8/artifacts
+end_time: 1681222049820
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc03ae79ccd043cfb8e9a652e0f79be8
+run_name: polite-penguin-29
+run_uuid: cc03ae79ccd043cfb8e9a652e0f79be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222029725
+status: 3
+tags: []
+user_id: pahl

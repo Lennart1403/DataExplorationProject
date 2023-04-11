@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/865a62248fbd487b92cb8d04e1aa9f37/artifacts
+end_time: 1681221832846
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 865a62248fbd487b92cb8d04e1aa9f37
+run_name: nosy-pig-69
+run_uuid: 865a62248fbd487b92cb8d04e1aa9f37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221807690
+status: 3
+tags: []
+user_id: pahl

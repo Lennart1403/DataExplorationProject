@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/713eace03b524f4683d56b95b89010ab/artifacts
+end_time: 1681222010657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 713eace03b524f4683d56b95b89010ab
+run_name: zealous-ram-904
+run_uuid: 713eace03b524f4683d56b95b89010ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221983726
+status: 3
+tags: []
+user_id: pahl

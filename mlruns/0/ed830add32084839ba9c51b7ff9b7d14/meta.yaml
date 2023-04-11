@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/ed830add32084839ba9c51b7ff9b7d14/artifacts
+end_time: 1681221576081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed830add32084839ba9c51b7ff9b7d14
+run_name: mysterious-steed-159
+run_uuid: ed830add32084839ba9c51b7ff9b7d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221568387
+status: 3
+tags: []
+user_id: pahl

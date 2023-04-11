@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/f4ff1e157f144415a234c753493d5cf4/artifacts
+end_time: 1681221855387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4ff1e157f144415a234c753493d5cf4
+run_name: thundering-elk-798
+run_uuid: f4ff1e157f144415a234c753493d5cf4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221832849
+status: 3
+tags: []
+user_id: pahl

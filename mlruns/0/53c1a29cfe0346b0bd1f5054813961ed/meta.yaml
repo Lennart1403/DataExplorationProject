@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/53c1a29cfe0346b0bd1f5054813961ed/artifacts
+end_time: 1681221522658
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 53c1a29cfe0346b0bd1f5054813961ed
+run_name: enthused-rook-343
+run_uuid: 53c1a29cfe0346b0bd1f5054813961ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221517854
+status: 3
+tags: []
+user_id: pahl

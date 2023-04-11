@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/6c0a737704834687a04c31b554868876/artifacts
+end_time: 1681221905492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c0a737704834687a04c31b554868876
+run_name: nosy-hog-922
+run_uuid: 6c0a737704834687a04c31b554868876
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221889872
+status: 3
+tags: []
+user_id: pahl

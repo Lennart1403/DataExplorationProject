@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/c39bacdbc9654f61b0627f7e78c136bd/artifacts
+end_time: 1681221741607
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c39bacdbc9654f61b0627f7e78c136bd
+run_name: honorable-cub-240
+run_uuid: c39bacdbc9654f61b0627f7e78c136bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221734475
+status: 3
+tags: []
+user_id: pahl

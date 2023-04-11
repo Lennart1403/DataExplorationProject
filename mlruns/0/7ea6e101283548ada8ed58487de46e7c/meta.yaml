@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/7ea6e101283548ada8ed58487de46e7c/artifacts
+end_time: 1681221789539
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ea6e101283548ada8ed58487de46e7c
+run_name: gentle-yak-932
+run_uuid: 7ea6e101283548ada8ed58487de46e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221769062
+status: 3
+tags: []
+user_id: pahl

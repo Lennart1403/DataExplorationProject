@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/bce1c976ee8e4c3881973f45c5cdc3ac/artifacts
+end_time: 1681222158546
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bce1c976ee8e4c3881973f45c5cdc3ac
+run_name: legendary-gnu-23
+run_uuid: bce1c976ee8e4c3881973f45c5cdc3ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222122379
+status: 3
+tags: []
+user_id: pahl

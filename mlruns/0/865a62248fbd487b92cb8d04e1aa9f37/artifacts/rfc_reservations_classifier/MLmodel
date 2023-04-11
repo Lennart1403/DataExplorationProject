@@ -1,0 +1,19 @@
+artifact_path: rfc_reservations_classifier
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.1
+mlflow_version: 2.2.0
+model_uuid: ad416e4cca454917a002c378efac67ae
+run_id: 865a62248fbd487b92cb8d04e1aa9f37
+utc_time_created: '2023-04-11 14:03:50.604325'

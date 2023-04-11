@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/edfea6fe2a684547b3ec61215ced26f7/artifacts
+end_time: 1681222363297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edfea6fe2a684547b3ec61215ced26f7
+run_name: nebulous-newt-854
+run_uuid: edfea6fe2a684547b3ec61215ced26f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222201485
+status: 3
+tags: []
+user_id: pahl

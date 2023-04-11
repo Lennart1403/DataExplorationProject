@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/5694b19a2ef8429cb78d138df9c49cad/artifacts
+end_time: 1681222122377
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5694b19a2ef8429cb78d138df9c49cad
+run_name: peaceful-ox-830
+run_uuid: 5694b19a2ef8429cb78d138df9c49cad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222096868
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/a0091b5f95cb46a98b9d1fd84e89969c/artifacts
+end_time: 1681222386561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0091b5f95cb46a98b9d1fd84e89969c
+run_name: rambunctious-doe-427
+run_uuid: a0091b5f95cb46a98b9d1fd84e89969c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222363300
+status: 3
+tags: []
+user_id: pahl

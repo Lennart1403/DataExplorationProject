@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/a175d2c698d24b4a9eb668152c295b75/artifacts
+end_time: 1681221734473
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a175d2c698d24b4a9eb668152c295b75
+run_name: nosy-crow-691
+run_uuid: a175d2c698d24b4a9eb668152c295b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221727061
+status: 3
+tags: []
+user_id: pahl

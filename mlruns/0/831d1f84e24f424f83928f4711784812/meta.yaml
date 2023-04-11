@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/831d1f84e24f424f83928f4711784812/artifacts
+end_time: 1681221872403
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 831d1f84e24f424f83928f4711784812
+run_name: brawny-auk-128
+run_uuid: 831d1f84e24f424f83928f4711784812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221864065
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/7f85869c27474287816228189fd21a25/artifacts
+end_time: 1681222020413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7f85869c27474287816228189fd21a25
+run_name: abrasive-owl-717
+run_uuid: 7f85869c27474287816228189fd21a25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222010660
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/af81699c81be40449501ac1ec4750eb0/artifacts
+end_time: 1681221543244
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af81699c81be40449501ac1ec4750eb0
+run_name: silent-ray-534
+run_uuid: af81699c81be40449501ac1ec4750eb0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221535441
+status: 3
+tags: []
+user_id: pahl

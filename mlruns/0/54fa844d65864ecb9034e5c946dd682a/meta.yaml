@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/54fa844d65864ecb9034e5c946dd682a/artifacts
+end_time: 1681221769059
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54fa844d65864ecb9034e5c946dd682a
+run_name: nebulous-seal-68
+run_uuid: 54fa844d65864ecb9034e5c946dd682a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221756097
+status: 3
+tags: []
+user_id: pahl

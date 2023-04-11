@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/9764e7d750b84871bbf15796390319a4/artifacts
+end_time: 1681222201483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9764e7d750b84871bbf15796390319a4
+run_name: invincible-flea-561
+run_uuid: 9764e7d750b84871bbf15796390319a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222190426
+status: 3
+tags: []
+user_id: pahl

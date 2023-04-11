@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/81d30addf58e4780a715977c5cfd1bff/artifacts
+end_time: 1681221550429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81d30addf58e4780a715977c5cfd1bff
+run_name: abrasive-penguin-551
+run_uuid: 81d30addf58e4780a715977c5cfd1bff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221543246
+status: 3
+tags: []
+user_id: pahl

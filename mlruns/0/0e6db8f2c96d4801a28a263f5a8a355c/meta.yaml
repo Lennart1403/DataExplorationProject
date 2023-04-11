@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/0e6db8f2c96d4801a28a263f5a8a355c/artifacts
+end_time: 1681221676098
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0e6db8f2c96d4801a28a263f5a8a355c
+run_name: fun-crow-737
+run_uuid: 0e6db8f2c96d4801a28a263f5a8a355c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221659580
+status: 3
+tags: []
+user_id: pahl

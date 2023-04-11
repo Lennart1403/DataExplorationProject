@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/befe406e71c342a9a7285d20447eb04c/artifacts
+end_time: 1681221889870
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: befe406e71c342a9a7285d20447eb04c
+run_name: popular-shoat-977
+run_uuid: befe406e71c342a9a7285d20447eb04c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221872405
+status: 3
+tags: []
+user_id: pahl

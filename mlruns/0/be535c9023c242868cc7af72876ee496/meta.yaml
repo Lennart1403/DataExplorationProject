@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/be535c9023c242868cc7af72876ee496/artifacts
+end_time: 1681221588429
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: be535c9023c242868cc7af72876ee496
+run_name: selective-chimp-55
+run_uuid: be535c9023c242868cc7af72876ee496
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221576083
+status: 3
+tags: []
+user_id: pahl

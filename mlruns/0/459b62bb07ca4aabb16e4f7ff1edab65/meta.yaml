@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/459b62bb07ca4aabb16e4f7ff1edab65/artifacts
+end_time: 1681222190424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 459b62bb07ca4aabb16e4f7ff1edab65
+run_name: unleashed-doe-892
+run_uuid: 459b62bb07ca4aabb16e4f7ff1edab65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222158548
+status: 3
+tags: []
+user_id: pahl

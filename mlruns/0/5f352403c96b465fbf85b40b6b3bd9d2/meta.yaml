@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/5f352403c96b465fbf85b40b6b3bd9d2/artifacts
+end_time: 1681221807688
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f352403c96b465fbf85b40b6b3bd9d2
+run_name: powerful-rat-384
+run_uuid: 5f352403c96b465fbf85b40b6b3bd9d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221789541
+status: 3
+tags: []
+user_id: pahl

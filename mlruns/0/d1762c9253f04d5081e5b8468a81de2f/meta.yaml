@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/d1762c9253f04d5081e5b8468a81de2f/artifacts
+end_time: 1681221756094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d1762c9253f04d5081e5b8468a81de2f
+run_name: omniscient-mare-708
+run_uuid: d1762c9253f04d5081e5b8468a81de2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221741609
+status: 3
+tags: []
+user_id: pahl

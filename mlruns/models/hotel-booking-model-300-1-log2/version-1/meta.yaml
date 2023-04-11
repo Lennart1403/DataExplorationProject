@@ -1,11 +1,11 @@
-creation_timestamp: 1680820770889
+creation_timestamp: 1681222029720
 current_stage: None
 description: null
-last_updated_timestamp: 1680820770889
+last_updated_timestamp: 1681222029720
 name: hotel-booking-model-300-1-log2
-run_id: 566c23a2f30a4d86b5fb173657890d7b
+run_id: 0b07bdd940814d41b838d0b3652a8469
 run_link: null
-source: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/566c23a2f30a4d86b5fb173657890d7b/artifacts/rfc_reservations_classifier
+source: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/0b07bdd940814d41b838d0b3652a8469/artifacts/rfc_reservations_classifier
 status: READY
 status_message: null
 user_id: null

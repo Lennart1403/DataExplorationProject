@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/dc5cb0747d594e309951288991c5fd05/artifacts
+end_time: 1681222441219
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5cb0747d594e309951288991c5fd05
+run_name: exultant-smelt-387
+run_uuid: dc5cb0747d594e309951288991c5fd05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681222407211
+status: 3
+tags: []
+user_id: pahl

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/pahl/workspace/DataExplorationProject/mlruns/0/77e702f23e204eeb8787e68183b024ea/artifacts
+end_time: 1681221512701
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 77e702f23e204eeb8787e68183b024ea
+run_name: masked-stork-698
+run_uuid: 77e702f23e204eeb8787e68183b024ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681221509332
+status: 3
+tags: []
+user_id: pahl
